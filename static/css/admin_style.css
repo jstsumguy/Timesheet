@@ -1,0 +1,24 @@
+#details_table
+{
+	min-height: 300px;
+	max-height: 1000px;
+	border-radius: 15px;
+	padding: 20px;
+	margin-top: 80px;
+	margin-bottom: 75px;
+}
+#details_table h1
+{
+	color: white;
+	margin-bottom: 20px;
+}
+#details_table h2
+{
+	color: white;
+	margin-top: 43px;
+	text-align: center;
+}
+tr
+{
+	margin-top: 12px;
+}

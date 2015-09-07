@@ -1,0 +1,46 @@
+#nav
+{
+	float: left;
+	margin-left: 10px;
+	margin-bottom: 3px;
+	padding: 3px;
+	width: 10%;
+}
+.page_container
+{
+	width: 70%;
+	height: auto;
+	background-color: white;
+	margin-left: auto;
+	margin-right: auto;
+}
+footer
+{
+	margin-left: auto;
+	margin-right: auto;
+	font-size: 1.1em;
+	width: auto;
+	text-align: center;
+}
+/* For the timesheet */
+.day
+{
+	margin-top: 10px;
+	margin-bottom: 20px;
+	text-align: center;
+}
+#day-switch
+{
+	text-align: center;
+}
+
+#totals_banner
+{
+	text-align: center;
+	margin-bottom: 10px;
+	margin-top: 25px;
+}
+#time_container
+{
+	margin-bottom: 30px;
+}

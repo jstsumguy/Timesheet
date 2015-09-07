@@ -1,0 +1,135 @@
+/* Styles for chart info graphics */
+#chart_container
+{
+	width: 600px;
+	height: 400px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: white;
+
+}
+#chart div
+{
+	background-color: white;
+}
+
+#details_table
+{
+	min-height: 300px;
+	max-height: 1000px;
+	border-radius: 15px;
+	padding: 20px;
+	margin-top: 80px;
+	margin-bottom: 75px;
+}
+#details_table h1
+{
+	color: white;
+	margin-bottom: 20px;
+}
+#details_table h2
+{
+	color: white;
+	margin-top: 43px;
+	text-align: center;
+}
+#time_container
+{
+	background-color: #00AFF0;
+	border-radius: 15px;
+	margin-top: 40px;
+	margin-bottom: 55px;
+	height: 200px;
+	padding-top: 22px;
+}
+#completed_tasks
+{
+	background-color: #00AFF0;
+	border-radius: 15px;
+	margin-top: 40px;
+	margin-bottom: 55px;
+	height: auto;
+	padding-top: 22px;
+	padding-bottom: 20px;
+}
+#completed_tasks h1
+{
+	color: white;
+	text-align: center;
+}
+#tasktitle
+{
+	text-align: center;
+}
+hr
+{
+	border-color: black;
+	border-width: 3px;
+}
+
+/* For the dropdown */
+select {
+	margin-top: 25px;
+	margin-left: 334px;
+	margin-right: auto;
+	border: 1px solid #111;
+	background: transparent;
+	background-color: white;
+	color: black;
+	width: 200px;
+	padding: 5px 35px 5px 5px;
+	font-size: 16px;
+	border: 1px solid #ccc;
+	height: 34px;
+	-webkit-appearance: none;
+	-moz-appearance: none;
+	appearance: none;
+} 
+
+@media screen and (min-width:0\0) { 
+	select {
+		background:none;
+		padding: 5px;
+	}
+}
+/* end dropdown styles */
+#task_container
+{
+	margin-top: 100px;
+}
+
+.taskitem
+{
+	margin-top: 20px;
+	margin-bottom: 30px;
+	min-width: 300px;
+	max-width: 600px;
+	color: white;
+	margin-left: auto;
+	margin-right: auto;
+	font-size: 2.2em;
+	border-radius: 25px;
+	padding: 15px;
+	background-color: #09ff01;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

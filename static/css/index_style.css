@@ -1,0 +1,32 @@
+#welcome_header
+{
+	padding: 20px;
+	float: left;
+	text-align: left;
+	border-radius: 15px;
+	width: 600px;
+	margin-top: 4%;
+}
+#welcome_header span
+{
+	text-align: center;
+	font-size: 1.4em;
+	margin-left: 20px;
+	margin-bottom: 20px;
+	margin-top: 20px;
+	padding: 4px;
+}
+#signup_container
+{
+	float: right;
+	margin-right: 20px;
+	margin-top: 4%;
+	border-radius: 15px;
+	background-color: lightgrey;
+	padding: 5px;
+	height: auto;
+}
+#signup_container a
+{
+	padding: 5px;
+}
