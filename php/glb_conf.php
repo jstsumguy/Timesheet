@@ -24,5 +24,5 @@ define("DATABASE", "ist440");
 define("ALLOWED_FAILURES", 5);
 
 //EMAIL 
-define("EMAIL_HOST", "willredington315@gmail.com");
+define("EMAIL_HOST", "default@gmail.com");
 ?>
